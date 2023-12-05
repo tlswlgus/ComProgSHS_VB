@@ -1,0 +1,9 @@
+c:\users\emmarie\documents\visual studio 2010\Projects\Group_Perfomance_Q3_1\Group_Perfomance_Q3_1\bin\Debug\Group_Perfomance_Q3_1.exe
+c:\users\emmarie\documents\visual studio 2010\Projects\Group_Perfomance_Q3_1\Group_Perfomance_Q3_1\bin\Debug\Group_Perfomance_Q3_1.pdb
+c:\users\emmarie\documents\visual studio 2010\Projects\Group_Perfomance_Q3_1\Group_Perfomance_Q3_1\bin\Debug\Group_Perfomance_Q3_1.xml
+c:\users\emmarie\documents\visual studio 2010\Projects\Group_Perfomance_Q3_1\Group_Perfomance_Q3_1\obj\x86\Debug\Group_Perfomance_Q3_1.frmStudInf.resources
+c:\users\emmarie\documents\visual studio 2010\Projects\Group_Perfomance_Q3_1\Group_Perfomance_Q3_1\obj\x86\Debug\Group_Perfomance_Q3_1.Resources.resources
+c:\users\emmarie\documents\visual studio 2010\Projects\Group_Perfomance_Q3_1\Group_Perfomance_Q3_1\obj\x86\Debug\Group_Perfomance_Q3_1.vbproj.GenerateResource.Cache
+c:\users\emmarie\documents\visual studio 2010\Projects\Group_Perfomance_Q3_1\Group_Perfomance_Q3_1\obj\x86\Debug\Group_Perfomance_Q3_1.exe
+c:\users\emmarie\documents\visual studio 2010\Projects\Group_Perfomance_Q3_1\Group_Perfomance_Q3_1\obj\x86\Debug\Group_Perfomance_Q3_1.xml
+c:\users\emmarie\documents\visual studio 2010\Projects\Group_Perfomance_Q3_1\Group_Perfomance_Q3_1\obj\x86\Debug\Group_Perfomance_Q3_1.pdb
