@@ -1,0 +1,20 @@
+C:\Users\emmarie\Documents\Visual Studio 2010\Projects\Perfomance1\Perfomance1\bin\Debug\Perfomance1.exe
+C:\Users\emmarie\Documents\Visual Studio 2010\Projects\Perfomance1\Perfomance1\bin\Debug\Perfomance1.pdb
+C:\Users\emmarie\Documents\Visual Studio 2010\Projects\Perfomance1\Perfomance1\bin\Debug\Perfomance1.xml
+C:\Users\emmarie\Documents\Visual Studio 2010\Projects\Perfomance1\Perfomance1\obj\x86\Debug\Perfomance1.Form1.resources
+C:\Users\emmarie\Documents\Visual Studio 2010\Projects\Perfomance1\Perfomance1\obj\x86\Debug\Perfomance1.Resources.resources
+C:\Users\emmarie\Documents\Visual Studio 2010\Projects\Perfomance1\Perfomance1\obj\x86\Debug\Perfomance1.vbproj.GenerateResource.Cache
+C:\Users\emmarie\Documents\Visual Studio 2010\Projects\Perfomance1\Perfomance1\obj\x86\Debug\Perfomance1.exe
+C:\Users\emmarie\Documents\Visual Studio 2010\Projects\Perfomance1\Perfomance1\obj\x86\Debug\Perfomance1.xml
+C:\Users\emmarie\Documents\Visual Studio 2010\Projects\Perfomance1\Perfomance1\obj\x86\Debug\Perfomance1.pdb
+C:\Users\Emmarlon PC\Documents\Makati USB\CS Files\Programming\Perfomance1\Perfomance1\bin\Debug\Perfomance1.exe
+C:\Users\Emmarlon PC\Documents\Makati USB\CS Files\Programming\Perfomance1\Perfomance1\bin\Debug\Perfomance1.pdb
+C:\Users\Emmarlon PC\Documents\Makati USB\CS Files\Programming\Perfomance1\Perfomance1\bin\Debug\Perfomance1.xml
+C:\Users\Emmarlon PC\Documents\Makati USB\CS Files\Programming\Perfomance1\Perfomance1\obj\x86\Debug\Perfomance1.vbproj.AssemblyReference.cache
+C:\Users\Emmarlon PC\Documents\Makati USB\CS Files\Programming\Perfomance1\Perfomance1\obj\x86\Debug\Perfomance1.Form1.resources
+C:\Users\Emmarlon PC\Documents\Makati USB\CS Files\Programming\Perfomance1\Perfomance1\obj\x86\Debug\Perfomance1.Resources.resources
+C:\Users\Emmarlon PC\Documents\Makati USB\CS Files\Programming\Perfomance1\Perfomance1\obj\x86\Debug\Perfomance1.vbproj.GenerateResource.cache
+C:\Users\Emmarlon PC\Documents\Makati USB\CS Files\Programming\Perfomance1\Perfomance1\obj\x86\Debug\Perfomance1.vbproj.CoreCompileInputs.cache
+C:\Users\Emmarlon PC\Documents\Makati USB\CS Files\Programming\Perfomance1\Perfomance1\obj\x86\Debug\Perfomance1.exe
+C:\Users\Emmarlon PC\Documents\Makati USB\CS Files\Programming\Perfomance1\Perfomance1\obj\x86\Debug\Perfomance1.xml
+C:\Users\Emmarlon PC\Documents\Makati USB\CS Files\Programming\Perfomance1\Perfomance1\obj\x86\Debug\Perfomance1.pdb
